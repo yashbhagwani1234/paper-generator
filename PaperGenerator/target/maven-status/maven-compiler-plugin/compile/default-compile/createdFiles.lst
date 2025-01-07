@@ -1,0 +1,9 @@
+com\mycompany\papergenerator\Dashboard.class
+com\mycompany\papergenerator\SystemInfo.class
+com\mycompany\papergenerator\CreatedPaper.class
+com\mycompany\papergenerator\Createpaper.class
+module-info.class
+com\mycompany\papergenerator\Conn.class
+com\mycompany\papergenerator\login.class
+com\mycompany\papergenerator\Myprofile.class
+com\mycompany\papergenerator\Signup.class
